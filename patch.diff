@@ -1,0 +1,25 @@
+From f1e00d1821600db27bf6719cbb3abd071ced3f84 Mon Sep 17 00:00:00 2001
+From: Kiera <syakira.a.mumtaz@gmail.com>
+Date: Sat, 27 Dec 2025 21:54:33 +0700
+Subject: [PATCH] commit kelima
+
+---
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 70bbfa7..3dc5bf1 100644
+--- a/README.md
++++ b/README.md
+@@ -4,4 +4,5 @@ kedua haha
+ 
+ ketiga
+ 
+-keempat
+\ No newline at end of file
++keempat
++kelimaa
+\ No newline at end of file
+-- 
+2.52.0.windows.1
+

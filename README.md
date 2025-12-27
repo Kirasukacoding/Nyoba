@@ -6,3 +6,5 @@ ketiga
 
 keempat
 kelimaa
+
+ini dari master
