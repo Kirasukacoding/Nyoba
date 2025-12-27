@@ -8,3 +8,5 @@ keempat
 kelima belas
 
 keenam yang bagus
+
+ngerjar ketinggalan
