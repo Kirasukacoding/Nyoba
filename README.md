@@ -37,4 +37,4 @@ brach pertama
 
 kok ada kesalahan ya
 
-aku adalah
+aku adalah syakira
