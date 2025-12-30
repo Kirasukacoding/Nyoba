@@ -38,3 +38,5 @@ brach pertama
 kok ada kesalahan ya
 
 aku adalah syakira
+
+bukan, namamu bukan syakira
