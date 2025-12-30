@@ -5,7 +5,36 @@ kedua haha
 ketiga
 
 keempat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 kelimaa
 
 ini dari master
-hahahha
+haha biar jelas
+
+kelima belas
+
+keenam yang bagus
+
+ngerjar ketinggalan
+brach pertama
+
+kok ada kesalahan ya
+
+aku adalah
